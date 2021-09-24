@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="Back">Назад</string>
+    <string name="Next">Вперед</string>
+    <string name="Адрес">Name</string>
+    <string name="Update">Обновить</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="todo">TODO</string>
+</resources>
